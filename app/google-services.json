@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919931400174",
+    "firebase_url": "https://relnto.firebaseio.com",
+    "project_id": "relnto",
+    "storage_bucket": "relnto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919931400174:android:bbdc3f8e13e41c7b69a8ff",
+        "android_client_info": {
+          "package_name": "com.example.relnto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919931400174-haitds4v0ckbj51c59k07vqbgv56so2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.relnto",
+            "certificate_hash": "1fd2c1510c304b6801ff2c84034b652ff96eda07"
+          }
+        },
+        {
+          "client_id": "919931400174-4efl4suv6ebr4bq10k0sml95clnhaci3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4cnNBWN2ZwnP-815wM1sB47HKJA9rLx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919931400174-4efl4suv6ebr4bq10k0sml95clnhaci3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
